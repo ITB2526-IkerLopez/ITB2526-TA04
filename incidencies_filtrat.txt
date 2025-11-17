@@ -1,0 +1,541 @@
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Samuel Anton Ojeda
+[0m[1;35mAdreca electronica: samuel.anton.7e7@itb.cat
+[0m[1;36mData deteccio de la incidencia: 09/11/2025
+[0m[36mHora deteccio de la incidencia: 18:20:00
+[0m[33mUbicacio equip afectat: 208
+[0m[32mQuin ambit ha estat afectat: Equipament audiovisual
+[0m[92mTipus d equip afectat: Sistema de so
+[0m[31mGrau de gravetat: Alta (impossibilita el treball)
+[0m[94mDescripcio de la incidencia: No funciona el só de l'ordinador
+[0m[95mPossible motiu de l incident: No sé
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Abel Duce
+[0m[1;35mAdreca electronica: abel.duce.7e9@itb.cat
+[0m[1;36mData deteccio de la incidencia: 22/10/2025
+[0m[36mHora deteccio de la incidencia: 11:46:00
+[0m[33mUbicacio equip afectat: Sala laboratori
+[0m[32mQuin ambit ha estat afectat: Equipament audiovisual
+[0m[92mTipus d equip afectat: Pantalla interactiva
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: No funciona el tactil
+[0m[95mPossible motiu de l incident: Opció desactivada
+[0m[93mFrequencia en que es produeix el problema: Sempre que s’utilitza l’equip
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Noel Florido
+[0m[1;35mAdreca electronica: noel.florido.7e9@itb.cat
+[0m[1;36mData deteccio de la incidencia: 03/11/2025
+[0m[36mHora deteccio de la incidencia: 14:23:00
+[0m[33mUbicacio equip afectat: 107
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Xarxa
+[0m[31mGrau de gravetat: Alta (impossibilita el treball)
+[0m[94mDescripcio de la incidencia: No va la xarxa
+[0m[95mPossible motiu de l incident: Falta de cables 
+[0m[93mFrequencia en que es produeix el problema: Només ha passat una vegada
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Carlos Valo
+[0m[1;35mAdreca electronica: cristian.ojeda.7e7@itb.cat
+[0m[1;36mData deteccio de la incidencia: 04/11/2025
+[0m[36mHora deteccio de la incidencia: 16:11:00
+[0m[33mUbicacio equip afectat: Sala 8
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Impressora
+[0m[31mGrau de gravetat: Alta (impossibilita el treball)
+[0m[94mDescripcio de la incidencia: No funciona como debe
+[0m[95mPossible motiu de l incident: Los informaticos no hacen su trabajo
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Sergio David
+[0m[1;35mAdreca electronica: cristian.ojeda.7e7@itb.cat
+[0m[1;36mData deteccio de la incidencia: 06/11/2025
+[0m[36mHora deteccio de la incidencia: 17:54:00
+[0m[33mUbicacio equip afectat: Sala 12
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Projector
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: No funciona como debe
+[0m[95mPossible motiu de l incident: No funciona como debe
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Ramiro alonso
+[0m[1;35mAdreca electronica: cristian.ojeda.7e7@itb.cat
+[0m[1;36mData deteccio de la incidencia: 05/11/2025
+[0m[36mHora deteccio de la incidencia: 12:17:00
+[0m[33mUbicacio equip afectat: sala 1
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Altaveus
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: No funciona como debe
+[0m[95mPossible motiu de l incident: No funciona como debe
+[0m[93mFrequencia en que es produeix el problema: Només ha passat una vegada
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Noel Florido
+[0m[1;35mAdreca electronica: noel.florido.7e9@itb.cat
+[0m[1;36mData deteccio de la incidencia: 30/11/2025
+[0m[36mHora deteccio de la incidencia: 13:22:00
+[0m[33mUbicacio equip afectat: 203
+[0m[32mQuin ambit ha estat afectat: Equipament audiovisual
+[0m[92mTipus d equip afectat: Altaveus
+[0m[31mGrau de gravetat: Alta (impossibilita el treball)
+[0m[94mDescripcio de la incidencia: No funcionen els altaveus
+[0m[95mPossible motiu de l incident: No es connecta correctament
+[0m[93mFrequencia en que es produeix el problema: Només ha passat una vegada
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Caio Ganais
+[0m[1;35mAdreca electronica: caio.ganais.7e9@itb.cat
+[0m[1;36mData deteccio de la incidencia: 22/09/2025
+[0m[36mHora deteccio de la incidencia: 12:12:00
+[0m[33mUbicacio equip afectat: Aula 208
+[0m[32mQuin ambit ha estat afectat: Equipament audiovisual
+[0m[92mTipus d equip afectat: Projector
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: Es mostra imatges d'un famós streamer al que li diuen cletus
+[0m[95mPossible motiu de l incident: Hacker
+[0m[93mFrequencia en que es produeix el problema: Només ha passat una vegada
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Noel Florido
+[0m[1;35mAdreca electronica: noel.florido.7e9@itb.cat
+[0m[1;36mData deteccio de la incidencia: 06/11/2025
+[0m[36mHora deteccio de la incidencia: 12:34:00
+[0m[33mUbicacio equip afectat: A l'aula
+[0m[32mQuin ambit ha estat afectat: Equipament audiovisual
+[0m[92mTipus d equip afectat: Impressora
+[0m[31mGrau de gravetat: Baixa (no impedeix el treball)
+[0m[94mDescripcio de la incidencia: No recibe mis pedidos de impresión
+[0m[95mPossible motiu de l incident: No se
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Jordi Martínez López
+[0m[1;35mAdreca electronica: jordi.martinez@cetbcn.edu
+[0m[1;36mData deteccio de la incidencia: 24/05/2025
+[0m[36mHora deteccio de la incidencia: 12:45:00
+[0m[33mUbicacio equip afectat: Aula d’informàtica 2
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Ordinador d'escriptori
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: L’ordinador no reconeix el teclat USB.
+[0m[95mPossible motiu de l incident: L’ordinador no reconeix el teclat USB.
+[0m[93mFrequencia en que es produeix el problema: Només ha passat una vegada
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Marc Garcia Pujol
+[0m[1;35mAdreca electronica: marc.garcia@cetbcn.edu
+[0m[1;36mData deteccio de la incidencia: 11/11/2025
+[0m[36mHora deteccio de la incidencia: 13:00:00
+[0m[33mUbicacio equip afectat: Aula de projectes
+[0m[32mQuin ambit ha estat afectat: Equipament audiovisual
+[0m[92mTipus d equip afectat: Projector
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: El projector no encén, només parpelleja el LED vermell.
+[0m[95mPossible motiu de l incident: Làmpada cremada.
+[0m[93mFrequencia en que es produeix el problema: Només ha passat una vegada
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Sandra Muñoz Ruiz
+[0m[1;35mAdreca electronica: sandra.munoz@cetbcn.edu
+[0m[1;36mData deteccio de la incidencia: 04/01/2025
+[0m[36mHora deteccio de la incidencia: 11:25:00
+[0m[33mUbicacio equip afectat: Oficina administrativa
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Impressora
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: La impressora no imprimeix, surt error de paper.
+[0m[95mPossible motiu de l incident: Sensor de paper brut.
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Cristina López Vidal
+[0m[1;35mAdreca electronica: cristina.lopez@cetbcn.edu
+[0m[1;36mData deteccio de la incidencia: 09/09/2025
+[0m[36mHora deteccio de la incidencia: 16:20:00
+[0m[33mUbicacio equip afectat: Aula multimèdia
+[0m[32mQuin ambit ha estat afectat: Equipament audiovisual
+[0m[92mTipus d equip afectat: Pantalla interactiva
+[0m[31mGrau de gravetat: Alta (impossibilita el treball)
+[0m[94mDescripcio de la incidencia: La pantalla no respon al tacte.
+[0m[95mPossible motiu de l incident: Fallada del controlador tàctil.
+[0m[93mFrequencia en que es produeix el problema: Sempre que s’utilitza l’equip
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: David Torres Requena
+[0m[1;35mAdreca electronica: david.torres@cetbcn.edu
+[0m[1;36mData deteccio de la incidencia: 15/04/2025
+[0m[36mHora deteccio de la incidencia: 12:45:00
+[0m[33mUbicacio equip afectat: Taller d’informàtica 1
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Portàtil
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: El portàtil s’apaga sol després de 5 minuts.
+[0m[95mPossible motiu de l incident: Sobreescalfament o bateria defectuosa.
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Jaume Lloveras
+[0m[1;35mAdreca electronica: jaume.lloveras.7e9@itb.cat
+[0m[1;36mData deteccio de la incidencia: 18/09/2025
+[0m[36mHora deteccio de la incidencia: 12:42:00
+[0m[33mUbicacio equip afectat: 208
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Projector
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: El projector s'engega, però no detecta el PC, llavors no projecta les presentacions ni les tasques ni res, només una pantalla en blanc.
+[0m[95mPossible motiu de l incident: Jo crec que ha de ser problema del cable que no connecta bé, o de la xarxa
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Núria Sánchez Moreno
+[0m[1;35mAdreca electronica: nuria.sanchez@cetbcn.edu
+[0m[1;36mData deteccio de la incidencia: 11/11/2025
+[0m[36mHora deteccio de la incidencia: 15:45:00
+[0m[33mUbicacio equip afectat: Secretaria
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Ordinador d'escriptori
+[0m[31mGrau de gravetat: Baixa (no impedeix el treball)
+[0m[94mDescripcio de la incidencia: El ratolí no funciona de forma fluida.
+[0m[95mPossible motiu de l incident: Superfície bruta o ratolí antic.
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: IKer Pijas
+[0m[1;35mAdreca electronica: Ikercomepijas@itb.com
+[0m[1;36mData deteccio de la incidencia: 07/12/2025
+[0m[36mHora deteccio de la incidencia: 13:13:00
+[0m[33mUbicacio equip afectat: Aula d’informàtica 2
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Xarxa
+[0m[31mGrau de gravetat: Alta (impossibilita el treball)
+[0m[94mDescripcio de la incidencia: No hi ha connexió a internet als ordinadors.
+[0m[95mPossible motiu de l incident: Fallada del router o problema de DNS.
+[0m[93mFrequencia en que es produeix el problema: Sempre que s’utilitza l’equip
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Òscar Méndez Cabrera
+[0m[1;35mAdreca electronica: oscar.mendez@cetbcn.edu
+[0m[1;36mData deteccio de la incidencia: 25/10/2025
+[0m[36mHora deteccio de la incidencia: 14:00:00
+[0m[33mUbicacio equip afectat: Aula 3.1
+[0m[32mQuin ambit ha estat afectat: Equipament audiovisual
+[0m[92mTipus d equip afectat: Altaveus
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: Només funciona un dels dos altaveus.
+[0m[95mPossible motiu de l incident: Cable d’àudio desconnectat o danyat.
+[0m[93mFrequencia en que es produeix el problema: Només ha passat una vegada
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Jordi Ros Garcia
+[0m[1;35mAdreca electronica: jordi.ros@itb.cat
+[0m[1;36mData deteccio de la incidencia: 22/10/2025
+[0m[36mHora deteccio de la incidencia: 10:22:00
+[0m[33mUbicacio equip afectat: Aula 212
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Ordinador d'escriptori
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: L’ordinador no reconeix el teclat USB, tot i reconnectar-lo diverses vegades.
+[0m[95mPossible motiu de l incident: Port USB defectuós.
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Roger Avicii
+[0m[1;35mAdreca electronica: RogerRoger@itb.cat
+[0m[1;36mData deteccio de la incidencia: 16/10/2025
+[0m[36mHora deteccio de la incidencia: 14:12:00
+[0m[33mUbicacio equip afectat: 208
+[0m[32mQuin ambit ha estat afectat: Equipament audiovisual
+[0m[92mTipus d equip afectat: Altaveus
+[0m[31mGrau de gravetat: Baixa (no impedeix el treball)
+[0m[94mDescripcio de la incidencia: Els altaveus no funcionant bé, fan només soroll de trencat i interferències, no es pot ficar àudio en el PC del professor.
+[0m[95mPossible motiu de l incident: A saber
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Maria Gómez Sánchez
+[0m[1;35mAdreca electronica: maria.gomez.cmgs@cetbcn.edu
+[0m[1;36mData deteccio de la incidencia: 28/09/2025
+[0m[36mHora deteccio de la incidencia: 11:12:00
+[0m[33mUbicacio equip afectat: Aula CMGS-2
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Ordinador d'escriptori
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: L’ordinador no arrenca, queda la pantalla negra.
+[0m[95mPossible motiu de l incident: Error al disc dur o cable intern desconnectat.
+
+[0m[93mFrequencia en que es produeix el problema: Només ha passat una vegada
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Putjemon Putero
+[0m[1;35mAdreca electronica: Putjemongarcia@gmail.cat
+[0m[1;36mData deteccio de la incidencia: 06/09/2024
+[0m[36mHora deteccio de la incidencia: 15:15:00
+[0m[33mUbicacio equip afectat: Sala de reunions
+[0m[32mQuin ambit ha estat afectat: Equipament audiovisual
+[0m[92mTipus d equip afectat: Projector
+[0m[31mGrau de gravetat: Alta (impossibilita el treball)
+[0m[94mDescripcio de la incidencia: La imatge del projector surt borrosa i tremola.
+[0m[95mPossible motiu de l incident: Lent bruta o cable HDMI malmès.
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Sergi López Blanch
+[0m[1;35mAdreca electronica: sergi.lopez.cmgm@cetbcn.edu
+[0m[1;36mData deteccio de la incidencia: 23/10/2025
+[0m[36mHora deteccio de la incidencia: 12:45:00
+[0m[33mUbicacio equip afectat: Taller CMGM
+[0m[32mQuin ambit ha estat afectat: Equipament audiovisual
+[0m[92mTipus d equip afectat: Projector
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: El projector es veu molt fosc tot i tenir la llum al màxim.
+[0m[95mPossible motiu de l incident: Làmpada gastada.
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Leo Messi GOAT
+[0m[1;35mAdreca electronica: leomessi@tequiero.hazmehijos
+[0m[1;36mData deteccio de la incidencia: 14/11/2025
+[0m[36mHora deteccio de la incidencia: 16:16:00
+[0m[33mUbicacio equip afectat: Aula 1C
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Portàtil
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: L’ordinador no reconeix la xarxa Wi-Fi.
+[0m[95mPossible motiu de l incident: Targeta de xarxa desconfigurada o controlador erroni
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Maria Vilaseca Tomàs
+[0m[1;35mAdreca electronica: maria.vilaseca@itb.cat
+[0m[1;36mData deteccio de la incidencia: 29/08/2025
+[0m[36mHora deteccio de la incidencia: 12:05:00
+[0m[33mUbicacio equip afectat: 105
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Xarxa
+[0m[31mGrau de gravetat: Alta (impossibilita el treball)
+[0m[94mDescripcio de la incidencia: Els ordinadors de l’aula no tenen connexió a internet.
+[0m[95mPossible motiu de l incident: Fallada al switch o al router d’aula.
+[0m[93mFrequencia en que es produeix el problema: Sempre que s’utilitza l’equip
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Anna Pérez Castaño
+[0m[1;35mAdreca electronica: anna.perez.batx@cetbcn.edu
+[0m[1;36mData deteccio de la incidencia: 15/02/2025
+[0m[36mHora deteccio de la incidencia: 11:50:00
+[0m[33mUbicacio equip afectat: Aula BATX-T2
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Portàtil
+[0m[31mGrau de gravetat: Baixa (no impedeix el treball)
+[0m[94mDescripcio de la incidencia: El portàtil triga molt a encendre’s
+[0m[95mPossible motiu de l incident: Massa programes en inici.
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: David Ruiz Vidal
+[0m[1;35mAdreca electronica: david.ruiz.cmgs@cetbcn.edu
+[0m[1;36mData deteccio de la incidencia: 15/02/2025
+[0m[36mHora deteccio de la incidencia: 17:24:00
+[0m[33mUbicacio equip afectat: Laboratori d’electrònica
+[0m[32mQuin ambit ha estat afectat: Equipament audiovisual
+[0m[92mTipus d equip afectat: Sistema de so
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: Els altaveus del laboratori no emeten so.
+[0m[95mPossible motiu de l incident: Cable d’àudio desconnectat.
+[0m[93mFrequencia en que es produeix el problema: Només ha passat una vegada
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Laia Casanovas Ferrer
+[0m[1;35mAdreca electronica: laia.casanovas@itb.cat
+[0m[1;36mData deteccio de la incidencia: 07/11/2025
+[0m[36mHora deteccio de la incidencia: 10:10:00
+[0m[33mUbicacio equip afectat: 205
+[0m[32mQuin ambit ha estat afectat: Equipament audiovisual
+[0m[92mTipus d equip afectat: Pantalla interactiva
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: La pantalla no respon bé al tacte en la part inferior dreta.
+[0m[95mPossible motiu de l incident: Error de calibratge.
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Judit Hernández Navarro
+[0m[1;35mAdreca electronica: judit.hernandez.cmgm@cetbcn.edu
+[0m[1;36mData deteccio de la incidencia: 15/03/2025
+[0m[36mHora deteccio de la incidencia: 10:25:00
+[0m[33mUbicacio equip afectat: Aula CMGM-3
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Impressora
+[0m[31mGrau de gravetat: Alta (impossibilita el treball)
+[0m[94mDescripcio de la incidencia: La impressora no imprimeix en xarxa.
+[0m[95mPossible motiu de l incident: Error de connexió IP o falta de controladors.
+[0m[93mFrequencia en que es produeix el problema: Sempre que s’utilitza l’equip
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Àlex Fernández Pujol
+[0m[1;35mAdreca electronica: alex.fernandez@itb.cat
+[0m[1;36mData deteccio de la incidencia: 05/11/2025
+[0m[36mHora deteccio de la incidencia: 13:25:00
+[0m[33mUbicacio equip afectat: secretaria
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Impressora
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: L’impressora HP no imprimeix en xarxa, només via USB.
+[0m[95mPossible motiu de l incident: Problema amb el driver de xarxa.
+[0m[93mFrequencia en que es produeix el problema: Només ha passat una vegada
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Joan Martí Ortega
+[0m[1;35mAdreca electronica: joan.marti.batx@cetbcn.edu
+[0m[1;36mData deteccio de la incidencia: 15/05/2025
+[0m[36mHora deteccio de la incidencia: 10:34:00
+[0m[33mUbicacio equip afectat: Aula BATX-Física
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Pantalla interactiva
+[0m[31mGrau de gravetat: Alta (impossibilita el treball)
+[0m[94mDescripcio de la incidencia: No detecta els tocs a la part inferior de la pantalla.
+[0m[95mPossible motiu de l incident: Calibratge incorrecte.
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Roger Roger
+[0m[1;35mAdreca electronica: Roger@itb.cat
+[0m[1;36mData deteccio de la incidencia: 12/01/2025
+[0m[36mHora deteccio de la incidencia: 14:55:00
+[0m[33mUbicacio equip afectat: 207
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Portàtil
+[0m[31mGrau de gravetat: Alta (impossibilita el treball)
+[0m[94mDescripcio de la incidencia: Pantalla trencada
+[0m[95mPossible motiu de l incident: cop de puny
+[0m[93mFrequencia en que es produeix el problema: Només ha passat una vegada
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Enric Sala Domènech
+[0m[1;35mAdreca electronica: enric.sala.cmgm@cetbcn.edu
+[0m[1;36mData deteccio de la incidencia: 06/05/2025
+[0m[36mHora deteccio de la incidencia: 12:45:00
+[0m[33mUbicacio equip afectat: Aula CMGM-1
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Ordinador d'escriptori
+[0m[31mGrau de gravetat: Baixa (no impedeix el treball)
+[0m[94mDescripcio de la incidencia: El ratolí salta i no respon bé.
+[0m[95mPossible motiu de l incident: Sensor brut o superfície irregular.
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Núria Castillo Riera
+[0m[1;35mAdreca electronica: nuria.castillo.batx@cetbcn.edu
+[0m[1;36mData deteccio de la incidencia: 03/03/2025
+[0m[36mHora deteccio de la incidencia: 10:05:00
+[0m[33mUbicacio equip afectat: Aula BATX-3
+[0m[32mQuin ambit ha estat afectat: Equipament audiovisual
+[0m[92mTipus d equip afectat: Projector
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: El projector fa molt soroll i s’apaga al cap de 10 minuts.
+[0m[95mPossible motiu de l incident: Ventilador obstruït.
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Albert Vidal Casanovas
+[0m[1;35mAdreca electronica: albert.vidal.cmgs@cetbcn.edu
+[0m[1;36mData deteccio de la incidencia: 15/01/2025
+[0m[36mHora deteccio de la incidencia: 15:15:00
+[0m[33mUbicacio equip afectat: Aula CMGS-Informatica
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Portàtil
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: El portàtil no detecta la xarxa del centre.
+[0m[95mPossible motiu de l incident: Targeta WiFi desactivada o controlador incorrecte.
+[0m[93mFrequencia en que es produeix el problema: Només ha passat una vegada
+[0m
+[1;33m==============================
+[0m[1;32m   REGISTRE D'INCIDÈNCIA VÀLID
+[0m[1;33m==============================
+[0m[1;34mNom i cognoms: Clàudia Méndez Prats
+[0m[1;35mAdreca electronica: claudia.mendez.cmgm@cetbcn.edu
+[0m[1;36mData deteccio de la incidencia: 01/02/2025
+[0m[36mHora deteccio de la incidencia: 12:05:00
+[0m[33mUbicacio equip afectat: Laboratori de programació CMGM
+[0m[32mQuin ambit ha estat afectat: Equipament Informatic
+[0m[92mTipus d equip afectat: Ordinador d'escriptori
+[0m[31mGrau de gravetat: Mitjana (dificulta parcialment el treball)
+[0m[94mDescripcio de la incidencia: L’ordinador es reinicia de manera aleatòria mentre es compila codi.
+[0m[95mPossible motiu de l incident: Sobrecalfament o font d’alimentació defectuosa.
+[0m[93mFrequencia en que es produeix el problema: Passa sovint (intermitent)
+[0m
