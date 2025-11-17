@@ -3,8 +3,8 @@ import xml.etree.ElementTree as ET
 import re
 import unicodedata
 
-csv_file = 'TA04- G4 Iker López, Jaume Lloveras, Roger Lesti (respostes) - Respostes al formulari 1.csv'
-xml_file = 'Incidencies.xml'
+csv_file = '../Arxius/TA04- G4 Iker López, Jaume Lloveras, Roger Lesti (respostes) - Respostes al formulari 1.csv'
+xml_file = '../Arxius/Incidencies.xml'
 
 # Función para limpiar nombres de etiquetas XML
 def limpiar_nombre_etiqueta(nombre):

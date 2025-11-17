@@ -1,11 +1,10 @@
 import xml.etree.ElementTree as ET
 import re
 from datetime import datetime
-
 # -----------------------------
 # CONFIG
 # -----------------------------
-FILE = "Incidencies.xml"
+FILE = "../Arxius/Incidencies.xml"
 OUTPUT = "incidencies_filtrat.txt"
 
 # Regles de validació
@@ -161,4 +160,3 @@ with open(OUTPUT, "w", encoding="utf-8") as f:
         f.write("\n")
 
 print("TXT generat correctament:", OUTPUT)
-
