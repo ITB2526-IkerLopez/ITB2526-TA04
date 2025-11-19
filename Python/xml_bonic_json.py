@@ -2,11 +2,11 @@ import xml.etree.ElementTree as ET
 import re
 import json
 from datetime import datetime
-
+import sys
 # -----------------------------
 # CONFIG
 # -----------------------------
-FILE = "Incidencies.xml"
+FILE = "../Arxius/Incidencies.xml"
 OUTPUT = "incidencies_filtrat.txt"
 OUTPUT_JSON = "incidencies_filtrat.json"
 
@@ -130,8 +130,16 @@ def color(c, t):
 # -----------------------------
 # LECTURA I FILTRAT
 # -----------------------------
-tree = ET.parse(FILE)
-root = tree.getroot()
+try:
+    tree = ET.parse(FILE)
+    root = tree.getroot()
+except FileNotFoundError:
+    print(f"No s'ha trobat l'arxiu: {FILE} a la ruta: ../Arxius/Incidencies.xml", file=sys.stderr)
+    print("Assegurat que el fitxer es diu Incidencies.xml i està a la carpeta", file=sys.stderr)
+    sys.exit(1)
+except ET.ParseError as e:
+    print(f"No s'ha trobat l'arxiu: {FILE} a la ruta: ../Arxius/Incidencies.xml", file=sys.stderr)
+    sys.exit(1)
 
 registres_json = []   # <--- Llista de registres per al JSON
 

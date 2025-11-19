@@ -3,8 +3,8 @@ import xml.etree.ElementTree as ET
 import re
 import unicodedata
 import sys
-csv_file = '/home/iker.lopez.7e7/PycharmProjects/ITB2526-TA04/Arxius/Formulari.csv'
-xml_file = 'Incidencies.xml'
+csv_file = '../Arxius/Formulari.csv'
+xml_file = '../Arxius/Incidencies.xml'
 
 # Función para limpiar nombres de etiquetas XML
 def limpiar_nombre_etiqueta(nombre):
@@ -46,7 +46,8 @@ try:
                 campo = ET.SubElement(registro, campo_nombre)
                 campo.text = value
 except FileNotFoundError:
-    print(f"No s'a trobat el fitxer: {csv_file}", file=sys.stderr)
+    print(f"No s'ha trobat el fitxer: {csv_file}", file=sys.stderr)
+    print ("Assegurat que el fitxer es diu Formulari.csv i està a la carpeta Arxius", file=sys.stderr)
     sys.exit(1)
 except Exception as e:
     print(f"Failed to read CSV ` {csv_file} `: {e}", file=sys.stderr)
