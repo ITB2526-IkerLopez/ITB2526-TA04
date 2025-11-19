@@ -1,11 +1,12 @@
 import xml.etree.ElementTree as ET
 import re
 from datetime import datetime
+import sys
 # -----------------------------
 # CONFIG
 # -----------------------------
 FILE = "Incidencies.xml"
-OUTPUT = incidencies_filtrat.txt
+OUTPUT = "incidencies_filtrat.txt"
 
 # Regles de validació
 AMBITS_VALIDS = {
@@ -140,9 +141,15 @@ def color(c, t):
 # -----------------------------
 # LECTURA I FILTRAT
 # -----------------------------
-tree = ET.parse(FILE)
-root = tree.getroot()
-
+try:
+    tree = ET.parse(FILE)
+    root = tree.getroot()
+except FileNotFoundError:
+    print(f"No s'ha trobat l'arxiu: {FILE} a la ruta: /home/iker.lopez.7e7/PycharmProjects/ITB2526-TA04/Python/Incidencies.xml", file=sys.stderr)
+    sys.exit(1)
+except ET.ParseError as e:
+    print(f"No s'ha trobat l'arxiu: {FILE} a la ruta: /home/iker.lopez.7e7/PycharmProjects/ITB2526-TA04/Python/Incidencies.xml", file=sys.stderr)
+    sys.exit(1)
 with open(OUTPUT, "w", encoding="utf-8") as f:
 
     for r in root.findall("Registro"):

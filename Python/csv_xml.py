@@ -2,8 +2,8 @@ import csv
 import xml.etree.ElementTree as ET
 import re
 import unicodedata
-
-csv_file = '../Arxius/TA04- G4 Iker López, Jaume Lloveras, Roger Lesti (respostes) - Respostes al formulari 1.csv'
+import sys
+csv_file = '/home/iker.lopez.7e7/PycharmProjects/ITB2526-TA04/Arxius/Formulari.csv'
 xml_file = 'Incidencies.xml'
 
 # Función para limpiar nombres de etiquetas XML
@@ -36,14 +36,22 @@ def indent(elem, level=0):
 root = ET.Element('Registros')
 
 # Leer CSV y construir XML
-with open(csv_file, newline='', encoding='utf-8') as csvfile:
-    reader = csv.DictReader(csvfile)
-    for row in reader:
-        registro = ET.SubElement(root, 'Registro')
-        for key, value in row.items():
-            campo_nombre = limpiar_nombre_etiqueta(key)
-            campo = ET.SubElement(registro, campo_nombre)
-            campo.text = value
+try:
+    with open(csv_file, newline='', encoding='utf-8') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            registro = ET.SubElement(root, 'Registro')
+            for key, value in row.items():
+                campo_nombre = limpiar_nombre_etiqueta(key)
+                campo = ET.SubElement(registro, campo_nombre)
+                campo.text = value
+except FileNotFoundError:
+    print(f"No s'a trobat el fitxer: {csv_file}", file=sys.stderr)
+    sys.exit(1)
+except Exception as e:
+    print(f"Failed to read CSV ` {csv_file} `: {e}", file=sys.stderr)
+    sys.exit(1)
+
 
 # Indentar para que sea legible
 indent(root)
