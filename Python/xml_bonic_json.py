@@ -1,13 +1,14 @@
+# python
 import xml.etree.ElementTree as ET
 import re
 import json
 from datetime import datetime
 import sys
+
 # -----------------------------
 # CONFIG
 # -----------------------------
 FILE = "../Arxius/Incidencies.xml"
-OUTPUT = "incidencies_filtrat.txt"
 OUTPUT_JSON = "incidencies_filtrat.json"
 
 # Regles de validació
@@ -105,7 +106,6 @@ def registre_valid(reg):
     except:
         return False
 
-
 # -----------------------------
 # COLORS
 # -----------------------------
@@ -126,7 +126,6 @@ COLORES = {
 def color(c, t):
     return f"\033[{c}m{t}\033[0m"
 
-
 # -----------------------------
 # LECTURA I FILTRAT
 # -----------------------------
@@ -143,28 +142,25 @@ except ET.ParseError as e:
 
 registres_json = []   # <--- Llista de registres per al JSON
 
-with open(OUTPUT, "w", encoding="utf-8") as f:
+# Print valid records to stdout instead of writing to `OUTPUT`
+for r in root.findall("Registro"):
+    if not registre_valid(r):
+        continue
 
-    for r in root.findall("Registro"):
-        if not registre_valid(r):
-            continue
+    # --- Print to screen ---
+    print(color("1;33", "=============================="))
+    print(color("1;32", "   REGISTRE D'INCIDÈNCIA VÀLID"))
+    print(color("1;33", "=============================="))
 
-        # --- Escriure en TXT ---
-        f.write(color("1;33", "==============================\n"))
-        f.write(color("1;32", "   REGISTRE D'INCIDÈNCIA VÀLID\n"))
-        f.write(color("1;33", "==============================\n"))
+    registre_dict = {}  # <--- Diccionari per al JSON
 
-        registre_dict = {}  # <--- Diccionari per al JSON
+    for tag in COLORES.keys():
+        valor = r.find(tag).text or ""
+        registre_dict[tag] = valor  # Afegim al JSON
+        print(color(COLORES[tag], f"{tag.replace('_', ' ')}: {valor}"))
 
-        for tag in COLORES.keys():
-            valor = r.find(tag).text or ""
-            registre_dict[tag] = valor  # Afegim al JSON
-            f.write(color(COLORES[tag], f"{tag.replace('_', ' ')}: {valor}\n"))
-
-        registres_json.append(registre_dict)  # Afegim a llista JSON
-
-        f.write("\n")
-
+    registres_json.append(registre_dict)  # Afegim a llista JSON
+    print()  # blank line between records
 
 # -----------------------------
 # CREACIÓ DEL JSON
@@ -172,5 +168,5 @@ with open(OUTPUT, "w", encoding="utf-8") as f:
 with open(OUTPUT_JSON, "w", encoding="utf-8") as jf:
     json.dump(registres_json, jf, ensure_ascii=False, indent=4)
 
-print("TXT generat correctament:", OUTPUT)
+print("Output printed to screen (no `OUTPUT` file created).")
 print("JSON generat correctament:", OUTPUT_JSON)
